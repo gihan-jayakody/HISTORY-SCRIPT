@@ -1,2 +1,2 @@
 # HISTORY-SCRIPT
-checking the history replaced by script
+DON'T READ THIS
